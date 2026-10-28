@@ -1,0 +1,31 @@
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #15152f, #39356b);
+    font-family: Arial, sans-serif;
+    color: #212529;
+}
+
+.card {
+    border-radius: 18px;
+}
+
+h1 {
+    color: #39356b;
+    font-weight: 700;
+}
+
+.btn-primary {
+    background-color: #6254a5;
+    border-color: #6254a5;
+}
+
+.btn-primary:hover {
+    background-color: #493d86;
+    border-color: #493d86;
+}
+
+.form-control {
+    padding: 12px;
+    border-radius: 8px;
+}
