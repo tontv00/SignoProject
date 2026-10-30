@@ -1,0 +1,14 @@
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Editores
+.vscode/
+
+# Dependências e arquivos temporários
+vendor/
+*.log
+
+# Arquivos locais
+.env
